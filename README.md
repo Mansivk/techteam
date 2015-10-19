@@ -1,4 +1,6 @@
 Kevin Changes: 2
+todays date 19102015 changes made .. nitin
+
 This is a test repository for the tech-team at WebMaffia.com
 SUNIL CHANGES
 Kevin Changes 
@@ -18,4 +20,4 @@ want to learn javascript and github .... this a file i want to commit
 
 i want to edit other files also lets start to edit : php demo files
 
-want to learn javascript and github .... this a file i want to commit 
+want to learn javascript and github .... t:his a file i want to commit 
