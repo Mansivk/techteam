@@ -3,6 +3,7 @@ This is a test repository for the tech-team at WebMaffia.com
 SUNIL CHANGES
 Kevin Changes 
 
+clone file changes read and edit 
 
 Rohan changes here i go..want to learn javascript and github .... this a file i want to commit 
 Rohan changes here i go..
